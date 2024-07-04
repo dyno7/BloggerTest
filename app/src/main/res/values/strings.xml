@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BloggerTest</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="nav_open" />
+    <string name="nav_close" />
+</resources>
